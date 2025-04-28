@@ -1,6 +1,4 @@
-/envjarvis
 contacts.csv
+engine/auth/samples
 jarvis.db
-/engine/__pycache__
-/engine/cookies.json
-engine/auth/samples/
+cookies.json
