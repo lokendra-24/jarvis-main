@@ -40,6 +40,16 @@ It can perform real-time voice interactions, respond smartly, authenticate using
 
 ---
 
+## 🧰 Tools & Technologies Used
+
+- Python  
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap  
+- SQLite3
+
+
 ## 🛠️ How to Run
 
 ```bash
