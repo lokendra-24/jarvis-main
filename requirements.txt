@@ -1,0 +1,12 @@
+speechrecognition
+pyttsx3
+pywhatkit
+eel
+pyautogui
+pyaudio
+pvporcupine
+hugchat
+cohere
+opencv-python
+python-dotenv
+requests
